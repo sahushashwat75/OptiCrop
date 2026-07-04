@@ -46,7 +46,7 @@
                     <p>Fill all values carefully for a better prediction.</p>
                 </div>
 
-                <form action="/predict" method="post" class="predict-form">
+                <form action="{{ url_for('predict') }}" method="POST" class="predict-form">
                     <div class="form-grid">
                         <div class="form-group">
                             <label for="N">Nitrogen (N)</label>

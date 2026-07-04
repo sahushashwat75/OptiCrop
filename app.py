@@ -12,7 +12,7 @@ with open("model.pkl", "rb") as f:
 def home():
     return render_template("home.html")
 
-@app.route("/predict", methods=["POST"])
+@app.route("/predict", methods=["POST"], strict_slashes=False)
 def predict():
     try:
         N = float(request.form["N"])
