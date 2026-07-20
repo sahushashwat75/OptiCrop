@@ -1,8 +1,7 @@
 
 # OptiCrop
 
-A machine learning-based web application that recommends the most suitable crop based on soil nutrients and environmental conditions. The application leverages a classification model integrated with the Flask web framework to provide real-time crop recommendations through a simple and responsive web interface. [github](https://github.com/Nikhil1120/Opticrop-Smart-Agricultural-Production-Optimization-Engine)
-
+A machine learning-based web application that recommends the most suitable crop based on soil nutrients and environmental conditions. The application leverages a classification model integrated with the Flask web framework to provide real-time crop recommendations through a simple and responsive web interface.
 ## Project Links
 | Resource | Link |
 |---|---|
@@ -11,9 +10,8 @@ A machine learning-based web application that recommends the most suitable crop 
 
 ## Project Overview
 
-OptiCrop helps users identify the most suitable crop to grow based on environmental and soil parameters. Traditional farming decisions often rely on experience, but this project uses machine learning to make crop selection more data-driven and efficient. Similar crop recommendation systems analyze soil nutrients and climate variables to support intelligent agricultural decision-making. [github](https://github.com/mohammadfirdose50-dot/OptiCrop-Smart-Agricultural-Production-Optimization-Engine)
-
-This project follows the complete machine learning lifecycle, including data preprocessing, model training, evaluation, deployment, and user interaction through a Flask web application. The overall idea is to convert agricultural inputs into an instant crop recommendation through a user-friendly interface. [galatfamily](https://www.galatfamily.in/blogs/opti-crop-agricultural-recommendation-system)
+OptiCrop helps users identify the most suitable crop to grow based on environmental and soil parameters. Traditional farming decisions often rely on experience, but this project uses machine learning to make crop selection more data-driven and efficient. Similar crop recommendation systems analyze soil nutrients and climate variables to support intelligent agricultural decision-making. 
+This project follows the complete machine learning lifecycle, including data preprocessing, model training, evaluation, deployment, and user interaction through a Flask web application. The overall idea is to convert agricultural inputs into an instant crop recommendation through a user-friendly interface.
 
 ## Features
 
@@ -24,7 +22,7 @@ This project follows the complete machine learning lifecycle, including data pre
 - Responsive and user-friendly interface.
 - Classification-based prediction model.
 - Flask backend integration.
-- Cloud deployment on Render. [github](https://github.com/molabantimadhuri/OptiCrop_Project/tree/main)
+- Cloud deployment on Render.
 
 ## Machine Learning
 
@@ -36,7 +34,7 @@ The following machine learning algorithms were trained and evaluated:
 - SVM
 - XGBoost
 
-After performance evaluation, the best-performing model was selected as the final deployed model. Crop recommendation work commonly compares these supervised classification algorithms and chooses the one with the best test performance. [masujournal](https://masujournal.org/112/MAJ-2025-1221-FD_1754609106.pdf)
+After performance evaluation, the best-performing model was selected as the final deployed model. Crop recommendation work commonly compares these supervised classification algorithms and chooses the one with the best test performance.
 
 ## Technology Stack
 
@@ -129,8 +127,7 @@ The prediction model uses the following agricultural parameters:
 - pH
 - Rainfall
 
-These are the standard inputs used in crop recommendation systems because they strongly influence which crop will grow best in a given region. [github](https://github.com/Nikhil1120/Opticrop-Smart-Agricultural-Production-Optimization-Engine)
-
+These are the standard inputs used in crop recommendation systems because they strongly influence which crop will grow best in a given region.
 ## Prediction Output
 
 The system predicts the most suitable crop for the given conditions.
@@ -145,15 +142,15 @@ The system predicts the most suitable crop for the given conditions.
 - Mobile application.
 - Advanced ensemble or deep learning models.
 - Multilingual support.
-- SMS or email alert system. [github](https://github.com/mohammadfirdose50-dot/OptiCrop-Smart-Agricultural-Production-Optimization-Engine)
+- SMS or email alert system. 
 
 ## Deployment
 
-The application is deployed on Render and is publicly accessible. [github](https://github.com/molabantimadhuri/OptiCrop_Project/tree/main)
+The application is deployed on Render and is publicly accessible. 
 
 ## Live Application
 
-[https://opticrop-jb42.onrender.com/](https://opticrop-jb42.onrender.com/) [github](https://github.com/molabantimadhuri/OptiCrop_Project/tree/main)
+[https://opticrop-jb42.onrender.com/](https://opticrop-jb42.onrender.com/)
 
 ## Authors
 
